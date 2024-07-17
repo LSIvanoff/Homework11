@@ -51,7 +51,7 @@ public class Main {
         if (deliveryDays > 0) {
             System.out.println("Потребуется дней: " + deliveryDays + "\n");
         } else {
-            System.out.println("Доставки нет \n");
+            System.out.println("Доставки нет. \n");
         }
 
 
